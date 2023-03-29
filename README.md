@@ -1,5 +1,6 @@
 ## About me
 Hi! I'm currently a student here in Brazil.
+- 🧰 Full Stack Developer
 - 🌐 Web developer
 - 🎮 Game developer as a hobby
 
