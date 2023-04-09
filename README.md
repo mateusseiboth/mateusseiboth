@@ -19,6 +19,9 @@ Hi! I'm currently a student here in Brazil.
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusseiboth&count_private=true)
+
+ 
  ## You can find me on
  [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/mateus-seiboth-586715168)
 
