@@ -20,6 +20,8 @@ Hi! I'm currently a student here in Brazil.
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusseiboth&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusseiboth&layout=compact)](https://github.com/mateusseiboth/github-readme-stats)
+
 
  
  ## You can find me on
