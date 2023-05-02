@@ -3,8 +3,7 @@ Welcome to my GitHub! I'm a passionate web developer based in Brazil who's alway
 
 ##
 
-- 🧰 Full Stack Developer
-- 🌐 Web developer
+- 🌐 Full Stack Web developer
 - 🎮 Game developer as a hobby
 
 ## Current stack
