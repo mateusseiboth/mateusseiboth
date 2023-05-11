@@ -32,8 +32,8 @@ Welcome to my GitHub! I'm a passionate web developer based in Brazil who's alway
 <h2>Statistics</h2>
 
 <div align="center" style="display: flex; justify-content: center">
- <img height="180em" src="https://readmestats.999857.xyz/api?username=mateusseiboth&show_icons=true&theme=transparent&count_private=true"/>
- <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=mateusseiboth&layout=compact&langs_count=7&theme=transparent"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusseiboth&show_icons=true&theme=transparent&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusseiboth&layout=compact&langs_count=10&theme=transparent"/>
 </div>
  
  
