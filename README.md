@@ -26,10 +26,10 @@ Welcome to my GitHub! I'm a passionate web developer based in Brazil who's alway
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
  
  ## Learning right now
- ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
- ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
- ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
- ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
+ ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white&style=for-the-badge)
+ ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white&style=for-the-badge)
+ ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+ ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine&style=for-the-badge)
 
 
 ##
