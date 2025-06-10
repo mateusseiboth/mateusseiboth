@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate web developer based in Brazil who's alway
 
 ## Current stack
  ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white&style=for-the-badge)
-![TS](https://img.shields.io/badge/TypeScript-3178C6.svg?&logo=TS&logoColor=white&style=for-the-badge)
+![TS](https://img.shields.io/badge/TypeScript-3178C6.svg?&logo=typescript&logoColor=white&style=for-the-badge)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
